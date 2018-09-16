@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Delivery Stuff</string>
+    <string name="deliveries">Deliveries</string>
+    <string name="delivery_details">Delivery Details</string>
+</resources>
